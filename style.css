@@ -1,0 +1,85 @@
+.top1{
+    background-color:lightskyblue;
+    height: 70px;
+    text-align: center;
+    bottom: 10px;
+    
+}
+.header{
+}
+/* body{
+    background-image: url('IMAGES/TOP\ IMAGE.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} */
+
+ul{
+    float: right;
+    list-style-type: none;
+}
+ul li {
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid;
+}
+ul li a:hover{
+    background-color:white;
+color: darkblue;
+}
+.logo img{
+    float: left;
+    width: 200px;
+    height: auto;
+    top: 20%;
+}
+h1{
+    text-align: center;
+}
+/* p{
+ 
+    width: 50%;
+ border: 2px solid;
+ text-align: justify;
+
+} */
+.main{
+    width: 50%;
+border: 5px solid gainsboro ; box-shadow: 10px px;
+
+    margin: 10px auto 10px auto;
+}
+
+.box {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    h
+  }
+
+
+
+
+  .image{
+      background-color: blue;
+      
+  }
+   table{
+    padding: 5%;
+    border: 5px solid; 
+    margin: 5px% auto; 
+    size: 50px;
+      
+      text-align: center;
+      
+  } 
+
+  .bb1{
+      background: darkgrey;
+      color: blue;
+  }
