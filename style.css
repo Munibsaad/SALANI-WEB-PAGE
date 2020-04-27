@@ -5,8 +5,7 @@
     bottom: 10px;
     
 }
-.header{
-}
+
 /* body{
     background-image: url('IMAGES/TOP\ IMAGE.png');
     background-repeat: no-repeat;
@@ -59,25 +58,20 @@ border: 5px solid gainsboro ; box-shadow: 10px px;
     padding: 10px;
     border: 5px solid gray;
     margin: 0;
-    h
-  }
+}
+  
 
 
-
-
-  .image{
-      background-color: blue;
-      
-  }
-   table{
+  
+table{
     padding: 5%;
-    border: 5px solid; 
-    margin: 5px% auto; 
+    border: 5px solid;
+    margin: 5px auto;
     size: 50px;
+    text-align: center;
+}
       
-      text-align: center;
-      
-  } 
+   
 
   .bb1{
       background: darkgrey;
